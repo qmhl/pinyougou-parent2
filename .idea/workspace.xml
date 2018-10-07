@@ -1,0 +1,1726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dba31d85-fb60-4342-b972-060e768f10af" name="Default" comment="新增文件">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_article/tensquare_article.iml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_article/tensquare_article.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_base/tensquare_base.iml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_base/tensquare_base.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_common/pom.xml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_common/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_common/tensquare_common.iml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_common/tensquare_common.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_config/pom.xml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_config/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_config/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_config/src/main/resources/application.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_config/tensquare_config.iml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_config/tensquare_config.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_eureka/pom.xml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_eureka/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_eureka/tensquare_eureka.iml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_eureka/tensquare_eureka.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_friend/src/main/java/com/tensquare/friend/ApplicationConfig.java" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_friend/src/main/java/com/tensquare/friend/ApplicationConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_friend/src/main/java/com/tensquare/friend/client/UserClient.java" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_friend/src/main/java/com/tensquare/friend/client/UserClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_friend/tensquare_friend.iml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_friend/tensquare_friend.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_gathering/tensquare_gathering.iml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_gathering/tensquare_gathering.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_manager/tensquare_manager.iml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_manager/tensquare_manager.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_parent.iml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_parent.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_qa/tensquare_qa.iml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_qa/tensquare_qa.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_recruit/tensquare_recruit.iml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_recruit/tensquare_recruit.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_search/tensquare_search.iml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_search/tensquare_search.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_sms/tensquare_sms.iml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_sms/tensquare_sms.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_spit/tensquare_spit.iml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_spit/tensquare_spit.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_user/tensquare_user.iml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_user/tensquare_user.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_web/tensquare_web.iml" afterPath="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_web/tensquare_web.iml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/pinyougou-search-interface/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-content-interface/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-content-service/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-task-service/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-seckill-service/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-sellergoods-service/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-cart-interface/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-shop-web/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-user-interface/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-solr-util/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-pay-interface/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-manager-web/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-pay-service/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-common/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-sellergoods-interface/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-seckill-interface/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-order-service/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-dao/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-seckill-web/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-page-web/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-cart-web/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-search-web/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-user-web/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-order-interface/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-cart-service/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-page-service/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-portal-web/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-page-interface/target/" />
+    <ignored path="$PROJECT_DIR$/pinyougou-search-service/target/" />
+    <ignored path="$PROJECT_DIR$/../itcast_sms_service/target/" />
+    <ignored path="$PROJECT_DIR$/../springBootDemo/target/" />
+    <ignored path="E:/Project/gitdemo/leyou/ly-item/target/" />
+    <ignored path="E:/Project/gitdemo/leyou/ly-api-gateway/target/" />
+    <ignored path="E:/Project/gitdemo/leyou/ly-common/target/" />
+    <ignored path="E:/Project/gitdemo/leyou/ly-upload/target/" />
+    <ignored path="E:/Project/gitdemo/leyou/ly-registry/target/" />
+    <ignored path="E:/Project/gitdemo/leyou/ly-item/ly-item-service/target/" />
+    <ignored path="E:/Project/gitdemo/leyou/ly-item/ly-item-interface/target/" />
+    <ignored path="E:/Project/gitdemo/leyou/target/" />
+    <ignored path="E:/Project/gitdemo/ssm/target/" />
+    <ignored path="E:/Project/gitdemo/tcc-transaction-v1.1.5_(龙果学院带注释版源码)/tcc-transaction-v1.1.5/tcc-transaction-dubbo-redpacket/target/" />
+    <ignored path="E:/Project/gitdemo/tcc-transaction-v1.1.5_(龙果学院带注释版源码)/tcc-transaction-v1.1.5/tcc-transaction-api/target/" />
+    <ignored path="E:/Project/gitdemo/tcc-transaction-v1.1.5_(龙果学院带注释版源码)/tcc-transaction-v1.1.5/target/" />
+    <ignored path="E:/Project/gitdemo/tcc-transaction-v1.1.5_(龙果学院带注释版源码)/tcc-transaction-v1.1.5/tcc-transaction-dubbo-order-api/target/" />
+    <ignored path="E:/Project/gitdemo/tcc-transaction-v1.1.5_(龙果学院带注释版源码)/tcc-transaction-v1.1.5/tcc-transaction-dubbo-web-trade/target/" />
+    <ignored path="E:/Project/gitdemo/tcc-transaction-v1.1.5_(龙果学院带注释版源码)/tcc-transaction-v1.1.5/tcc-transaction-dubbo-order/target/" />
+    <ignored path="E:/Project/gitdemo/tcc-transaction-v1.1.5_(龙果学院带注释版源码)/tcc-transaction-v1.1.5/tcc-transaction-spring/target/" />
+    <ignored path="E:/Project/gitdemo/tcc-transaction-v1.1.5_(龙果学院带注释版源码)/tcc-transaction-v1.1.5/tcc-transaction-server/target/" />
+    <ignored path="E:/Project/gitdemo/tcc-transaction-v1.1.5_(龙果学院带注释版源码)/tcc-transaction-v1.1.5/tcc-transaction-dubbo-capital/target/" />
+    <ignored path="E:/Project/gitdemo/tcc-transaction-v1.1.5_(龙果学院带注释版源码)/tcc-transaction-v1.1.5/tcc-transaction-core/target/" />
+    <ignored path="E:/Project/gitdemo/tcc-transaction-v1.1.5_(龙果学院带注释版源码)/tcc-transaction-v1.1.5/tcc-transaction-dubbo-capital-api/target/" />
+    <ignored path="E:/Project/gitdemo/tcc-transaction-v1.1.5_(龙果学院带注释版源码)/tcc-transaction-v1.1.5/tcc-transaction-parent/target/" />
+    <ignored path="E:/Project/gitdemo/tcc-transaction-v1.1.5_(龙果学院带注释版源码)/tcc-transaction-v1.1.5/tcc-transaction-dubbo-redpacket-api/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/dockercompose-springboot-mysql-nginx/app/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-jpa-thymeleaf-curd/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-admin-simple/spring-boot-admin-server/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-admin-simple/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-admin-simple/spring-boot-admin-client/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-banner/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-web-thymeleaf/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-commandLineRunner/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-fastDFS/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-multi-mongodb/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-actuator/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-mybatis-mulidatasource/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-package-war/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-thymeleaf/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-mail/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-shiro/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-scheduler/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-mybatis-annotation/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-rabbitmq/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-mybatis-xml/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-file-upload/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-mongodb/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-mybatis-annotation-mulidatasource/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-docker/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-web/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-memcache-spymemcached/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-helloWorld/target/" />
+    <ignored path="E:/Project/gitdemo/spring-boot-examples/spring-boot-hello/target/" />
+    <ignored path="E:/Project/gitdemo/springboot-rabbitmq-master/target/" />
+    <ignored path="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_common/target/" />
+    <ignored path="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_manager/target/" />
+    <ignored path="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_sms/target/" />
+    <ignored path="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_article/target/" />
+    <ignored path="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_spit/target/" />
+    <ignored path="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_base/target/" />
+    <ignored path="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_recruit/target/" />
+    <ignored path="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_friend/target/" />
+    <ignored path="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_gathering/target/" />
+    <ignored path="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_search/target/" />
+    <ignored path="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_config/target/" />
+    <ignored path="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_eureka/target/" />
+    <ignored path="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_qa/target/" />
+    <ignored path="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_user/target/" />
+    <ignored path="$PROJECT_DIR$/../tensquare/tensquare_parent/target/" />
+    <ignored path="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_web/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-item/ly-item-service/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-sms/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-page/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-order/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-user/ly-user-service/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-item/ly-item-interface/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-user/ly-user-interface/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-search/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-item/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-cart/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-registry/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-gateway/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-common/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-auth/ly-auth-common/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-auth/ly-auth-center/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-user/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-auth/target/" />
+    <ignored path="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-upload/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_eureka/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_common/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_eureka/target/docker/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_config/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1121">
+              <caret line="59" column="10" lean-forward="false" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CookieUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-common/src/main/java/com/leyou/common/utils/CookieUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-upload/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VisitorController.java" pinned="false" current-in-tab="false">
+        <entry file="file://E:/Project/gitdemo/spring-boot-examples/dockercompose-springboot-mysql-nginx/app/src/main/java/com/neo/controller/VisitorController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinyougou-cart-interface/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pinyougou-cart-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1799">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pinyougou_queue_solr</find>
+      <find>jmsTemplate</find>
+      <find>pinyougou_queue_solr_delete</find>
+      <find>ItemSearchListener</find>
+      <find>session</find>
+      <find>queueSolrDestination</find>
+      <find>itemSearchListener</find>
+      <find>queueSolrDeleteDestination</find>
+      <find>itemDeleteListener</find>
+      <find>smsDestination</find>
+      <find>sms</find>
+      <find>insert</find>
+      <find>confirmRecord</find>
+      <find>cancelRecord</find>
+      <find>CapitalTradeOrderService</find>
+      <find>capitalTradeOrderService</find>
+      <find>PlaceOrderService</find>
+      <find>amount</find>
+      <find>capitalAccountRepository</find>
+      <find>CapitalAccountRepository</find>
+      <find>save</find>
+      <find>User</find>
+      <find>msgSendConfirmCallBack</find>
+      <find>ROUTINGKEY1</find>
+      <find>directory</find>
+      <find>ErrorResponseEntity</find>
+      <find>createSpecification</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>User2</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\BaiduNetdiskDownload\电商\品优购电商\品优购系统开发代码\day-20\itcast_sms_service</dir>
+      <dir>F:\BaiduNetdiskDownload\电商\品优购电商\品优购系统开发代码\day-20\pinyougou-parent</dir>
+      <dir>F:\BaiduNetdiskDownload\电商\品优购电商\品优购系统开发代码\day-20\itcast_sms_service\src\main</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../tensquare/tensquare_parent" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <push-targets>
+      <push-target-info target-remote="origin" target-branch="new_branch" repo="E:/Project/gitdemo/ssm" source="new_branch" />
+      <push-target-info target-remote="origin" target-branch="new_branch" repo="E:/Project/gitdemo/ssm" source="master" />
+    </push-targets>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Filter/MyFilter.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Entity/NeoProperties.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Entity/F.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Entity/User.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Interface/UserRepository.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Entity/User1.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/resources/mapper/UserMapper.fxml" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/resources/mapper/User1Mapper.xml" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Mapper/q.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/test/java/SpringBootMybatisApplicationTests.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/resources/mapper/User2Mapper.xml" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Service/User2Service.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Service/Impl/User2serviceImpl.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Mappers/MyMapper.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Mapper/User2Mapper.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/test/java/SpringBootMybatisPluginApplicationTests.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/test/java/Test1.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Filter/PageFilter.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Configure/RedisCacheAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/HelloWorldController.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Entity/User2.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Controller/UserController.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Controller/User2Controller.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Configure/RabbitConfig.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Entity/Book.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Controller/BookController.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Handler/BookHandler.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/md" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Task/SpringTaskDemo.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Controller/FileUploadController.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Exception/CustomException.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Exception/ErrorResponseEntity.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Controller/ExceptionController.java" />
+        <option value="$PROJECT_DIR$/../../../资源/本地仓库/repository_pinyougou/org/springframework/spring-web/4.3.2.RELEASE/spring-web-4.3.2.RELEASE.jar!/org/springframework/http/ResponseEntity.class" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-rabbitmq/src/main/resources/application.properties" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-rabbitmq/src/main/java/com/neo/HelloController.java" />
+        <option value="E:/Project/gitdemo/springboot-rabbitmq-master/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Application.java" />
+        <option value="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_config/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_base/src/main/java/com/tensquare/base/service/LabelService.java" />
+        <option value="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_base/src/main/java/com/tensquare/base/controller/BaseExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_friend/src/main/java/com/tensquare/friend/client/UserClient.java" />
+        <option value="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_friend/src/main/java/com/tensquare/friend/ApplicationConfig.java" />
+        <option value="$PROJECT_DIR$/../springBootDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Configure/GlobalExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_eureka/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_eureka/target/docker/Dockerfile" />
+        <option value="E:/Project/gitdemo/ssm/src/main/java/com/soecode/lyf/Test/JoinTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\zhangqi\.m2\settings-pinyougou.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="E:/Project/gitdemo/leyou-manage-web/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="294" />
+    <option name="y" value="112" />
+    <option name="width" value="1300" />
+    <option name="height" value="807" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="nodejs_interpreter_path" value="E:/SOFT/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\BaiduNetdiskDownload\电商\品优购电商\品优购系统开发代码\day-20\tensquare\tensquare_parent\tensquare_eureka\target\docker" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\BaiduNetdiskDownload\电商\品优购电商\品优购系统开发代码\day-20\tensquare\tensquare_parent\tensquare_config" />
+      <recent name="F:\BaiduNetdiskDownload\电商\品优购电商\品优购系统开发代码\day-20\tensquare\tensquare_parent\tensquare_eureka\target" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9101" />
+          <option name="urlPath" value="book/list" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.ssm">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neo.Application" />
+      <module name="spring-boot-scheduler" />
+      <envs />
+    </configuration>
+    <configuration name="BaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.base.BaseApplication" />
+      <module name="tensquare_base" />
+      <envs />
+    </configuration>
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.config.ConfigApplication" />
+      <module name="tensquare_config" />
+      <envs />
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.eureka.EurekaApplication" />
+      <module name="tensquare_eureka" />
+      <envs />
+    </configuration>
+    <configuration name="HelloTest.hello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.neo.rabbitmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="spring-boot-rabbitmq" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.neo.rabbitmq" />
+      <option name="MAIN_CLASS_NAME" value="com.neo.rabbitmq.HelloTest" />
+      <option name="METHOD_NAME" value="hello" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="JoinTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.soecode.lyf.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.soecode.lyf.Test.JoinTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ssm" />
+      <envs />
+    </configuration>
+    <configuration name="LyApiGateway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyApiGateway" />
+      <module name="ly-api-gateway" />
+      <envs />
+    </configuration>
+    <configuration name="LyAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyAuthApplication" />
+      <module name="ly-auth-center" />
+      <envs />
+    </configuration>
+    <configuration name="LyCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyCartApplication" />
+      <module name="ly-cart" />
+      <envs />
+    </configuration>
+    <configuration name="LyGateway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyGateway" />
+      <module name="ly-gateway" />
+      <envs />
+    </configuration>
+    <configuration name="LyItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyItemApplication" />
+      <module name="ly-item-service (1)" />
+      <envs />
+    </configuration>
+    <configuration name="LyItemService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyItemService" />
+      <module name="ly-item-service" />
+      <envs />
+    </configuration>
+    <configuration name="LyRegistry" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyRegistry" />
+      <module name="ly-registry" />
+      <envs />
+    </configuration>
+    <configuration name="LySearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LySearchApplication" />
+      <module name="ly-search" />
+      <envs />
+    </configuration>
+    <configuration name="LySmsService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LySmsService" />
+      <module name="ly-sms" />
+      <envs />
+    </configuration>
+    <configuration name="LyUploadService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyUploadService" />
+      <module name="ly-upload" />
+      <envs />
+    </configuration>
+    <configuration name="LyUserService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyUserService" />
+      <module name="ly-user-service" />
+      <envs />
+    </configuration>
+    <configuration name="RabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.space.rabbitmq.RabbitmqApplication" />
+      <module name="rabbitmq" />
+      <envs />
+    </configuration>
+    <configuration name="SpringBootMybatisApplicationTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="springBootDemo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpringBootMybatisApplicationTests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Unnamed" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="parent" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="pinyougou-seckill-web [install:install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install:install" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/pinyougou-seckill-web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="ssm" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="E:/Project/gitdemo/ssm" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <list size="23">
+      <item index="0" class="java.lang.String" itemvalue="Maven.parent" />
+      <item index="1" class="java.lang.String" itemvalue="Maven.Unnamed" />
+      <item index="2" class="java.lang.String" itemvalue="Maven.ssm" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.LyItemService" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.LyApiGateway" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.LyUploadService" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.LyRegistry" />
+      <item index="7" class="java.lang.String" itemvalue="Spring Boot.RabbitmqApplication" />
+      <item index="8" class="java.lang.String" itemvalue="Spring Boot.ConfigApplication" />
+      <item index="9" class="java.lang.String" itemvalue="Spring Boot.BaseApplication" />
+      <item index="10" class="java.lang.String" itemvalue="Spring Boot.EurekaApplication" />
+      <item index="11" class="java.lang.String" itemvalue="Spring Boot.Application" />
+      <item index="12" class="java.lang.String" itemvalue="Spring Boot.LyCartApplication" />
+      <item index="13" class="java.lang.String" itemvalue="Spring Boot.LyGateway" />
+      <item index="14" class="java.lang.String" itemvalue="Spring Boot.LyItemApplication" />
+      <item index="15" class="java.lang.String" itemvalue="Spring Boot.LySmsService" />
+      <item index="16" class="java.lang.String" itemvalue="Spring Boot.LyAuthApplication" />
+      <item index="17" class="java.lang.String" itemvalue="Spring Boot.LyUserService" />
+      <item index="18" class="java.lang.String" itemvalue="Spring Boot.LySearchApplication" />
+      <item index="19" class="java.lang.String" itemvalue="Application.JoinTest" />
+      <item index="20" class="java.lang.String" itemvalue="JUnit.SpringBootMybatisApplicationTests.test1" />
+      <item index="21" class="java.lang.String" itemvalue="JUnit.HelloTest.hello" />
+      <item index="22" class="java.lang.String" itemvalue="Maven.pinyougou-seckill-web [install:install]" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.HelloTest.hello" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SpringBootMybatisApplicationTests.test1" />
+        <item index="2" class="java.lang.String" itemvalue="Application.JoinTest" />
+        <item index="3" class="java.lang.String" itemvalue="Maven.pinyougou-seckill-web [install:install]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\zhangqi\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dba31d85-fb60-4342-b972-060e768f10af" name="Default" comment="" />
+      <created>1532953281348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532953281348</updated>
+      <workItem from="1532953287882" duration="2741000" />
+      <workItem from="1535507906981" duration="3320000" />
+      <workItem from="1535525921831" duration="2429000" />
+      <workItem from="1535534951680" duration="1931000" />
+      <workItem from="1535547172854" duration="6637000" />
+      <workItem from="1535592711751" duration="1302000" />
+      <workItem from="1535606712369" duration="3397000" />
+      <workItem from="1535632586972" duration="1905000" />
+      <workItem from="1535713070180" duration="1840000" />
+      <workItem from="1535766752097" duration="1060000" />
+      <workItem from="1535767872139" duration="5483000" />
+      <workItem from="1535858590208" duration="9801000" />
+      <workItem from="1535944736363" duration="11631000" />
+      <workItem from="1536069311515" duration="6715000" />
+      <workItem from="1536108841215" duration="4877000" />
+      <workItem from="1536135846939" duration="2624000" />
+      <workItem from="1536327795748" duration="8910000" />
+      <workItem from="1536371061662" duration="5392000" />
+      <workItem from="1536382813317" duration="2696000" />
+      <workItem from="1536385779704" duration="9540000" />
+      <workItem from="1536590355906" duration="2718000" />
+      <workItem from="1536673804898" duration="4994000" />
+      <workItem from="1536764559490" duration="1629000" />
+      <workItem from="1536841022421" duration="5181000" />
+      <workItem from="1536971788814" duration="19920000" />
+      <workItem from="1537271777775" duration="3815000" />
+      <workItem from="1537961518123" duration="1171000" />
+      <workItem from="1538790029519" duration="25224000" />
+      <workItem from="1538892307349" duration="3848000" />
+    </task>
+    <task id="LOCAL-00001" summary="修改bookController中文件">
+      <created>1538792855347</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538792855347</updated>
+    </task>
+    <task id="LOCAL-00002" summary="新增entity和Test文件夹">
+      <created>1538793988021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538793988021</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add一个新的java文件">
+      <created>1538794567835</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1538794567835</updated>
+    </task>
+    <task id="LOCAL-00004" summary="本地添加文件">
+      <created>1538795181854</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1538795181854</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第三次添加文件">
+      <created>1538796084580</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1538796084580</updated>
+    </task>
+    <task id="LOCAL-00006" summary="本地第五次添加东西">
+      <created>1538796978037</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538796978037</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第六次添加">
+      <created>1538797349555</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1538797349555</updated>
+    </task>
+    <task id="LOCAL-00008" summary="第七次添加内容">
+      <created>1538797536729</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1538797536729</updated>
+    </task>
+    <task id="LOCAL-00009" summary="解决冲突文件">
+      <created>1538798621686</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1538798621686</updated>
+    </task>
+    <task id="LOCAL-00010" summary="第八次提交">
+      <created>1538799596995</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1538799596995</updated>
+    </task>
+    <task id="LOCAL-00011" summary="第八次提交">
+      <created>1538800119117</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1538800119117</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add第九次">
+      <created>1538800345678</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1538800345678</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add第九次和第十次">
+      <created>1538800496460</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1538800496460</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add第十一次">
+      <created>1538800856609</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1538800856609</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add第十三次111">
+      <created>1538801133960</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1538801133960</updated>
+    </task>
+    <task id="LOCAL-00016" summary="修改222">
+      <created>1538801399332</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1538801399332</updated>
+    </task>
+    <task id="LOCAL-00017" summary="555">
+      <created>1538801554910</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1538801554910</updated>
+    </task>
+    <task id="LOCAL-00018" summary="新增文件444 55">
+      <created>1538801741245</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1538801741245</updated>
+    </task>
+    <task id="LOCAL-00019" summary="添加空行">
+      <created>1538801988101</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1538801988101</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HelloTest_hello - 2018.09.08 at 12h 42m 57s.xml">
+      <configuration name="HelloTest.hello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelloTest_hello - 2018.09.08 at 12h 45m 42s.xml">
+      <configuration name="HelloTest.hello" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="162731000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32590052" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3260212" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3850227" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953683" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24981017" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6695502" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32761577" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60548884" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35849056" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改bookController中文件" />
+    <MESSAGE value="新增文件" />
+    <MESSAGE value="新增entity和Test文件夹" />
+    <MESSAGE value="add一个新的java文件" />
+    <MESSAGE value="本地添加文件" />
+    <MESSAGE value="第三次添加文件" />
+    <MESSAGE value="本地第五次添加东西" />
+    <MESSAGE value="第六次添加" />
+    <MESSAGE value="第七次添加内容" />
+    <MESSAGE value="解决冲突文件" />
+    <MESSAGE value="第八次提交" />
+    <MESSAGE value="add第九次" />
+    <MESSAGE value="add第九次和第十次" />
+    <MESSAGE value="add第十一次" />
+    <MESSAGE value="add第十三次111" />
+    <MESSAGE value="修改222" />
+    <MESSAGE value="555" />
+    <MESSAGE value="新增文件444 55" />
+    <MESSAGE value="添加空行" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加空行" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://E:/Project/gitdemo/tcc-transaction-v1.1.5_(龙果学院带注释版源码)/tcc-transaction-v1.1.5/tcc-transaction-dubbo-order/src/main/java/org/mengyun/tcctransaction/sample/dubbo/order/domain/repository/ProductRepository.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://E:/Project/gitdemo/tcc-transaction-v1.1.5_(龙果学院带注释版源码)/tcc-transaction-v1.1.5/tcc-transaction-dubbo-capital/src/main/java/org/mengyun/tcctransaction/sample/dubbo/capital/domain/entity/TradeOrder.java</url>
+          <line>56</line>
+          <properties class="org.mengyun.tcctransaction.sample.dubbo.capital.domain.entity.TradeOrder" method="confirm">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/../../../资源/本地仓库/repository_pinyougou/org/springframework/data/spring-data-commons/2.0.6.RELEASE/spring-data-commons-2.0.6.RELEASE.jar!/org/springframework/data/domain/Page.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_search/src/main/java/com/tensquare/search/controller/ArticleSearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="58" column="57" lean-forward="false" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_search/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-431">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_search/src/main/java/com/tensquare/search/dao/ArticleSearchDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_search/src/main/java/com/tensquare/search/service/ArticleSearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="77" column="32" lean-forward="false" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_sms/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_sms/src/main/java/com/tensquare/sms/SmsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_sms/src/main/java/com/tensquare/sms/SmsListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_spit/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-507">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_spit/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_spit/src/main/java/com/tensquare/spit/SpitApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_spit/src/main/java/com/tensquare/spit/controller/SpitController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_user/src/main/java/com/tensquare/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="76" column="36" lean-forward="false" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_web/src/main/java/com/tensquare/web/WebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../资源/本地仓库/repository_pinyougou/org/springframework/security/spring-security-core/5.0.4.RELEASE/spring-security-core-5.0.4.RELEASE.jar!/org/springframework/security/crypto/bcrypt/BCryptPasswordEncoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="53" column="19" lean-forward="false" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_common/src/main/java/entity/StatusCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_user/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_user/src/main/java/com/tensquare/user/UserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_user/src/main/java/com/tensquare/user/ApplicationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_user/src/main/java/com/tensquare/user/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_user/src/main/java/com/tensquare/user/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2489">
+          <caret line="144" column="40" lean-forward="false" selection-start-line="144" selection-start-column="31" selection-end-line="144" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_user/src/main/java/com/tensquare/user/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_user/src/main/java/com/tensquare/user/interceptors/JwtInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="38" column="40" lean-forward="false" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springBootDemo/src/main/java/cn/itcast/demo/Configure/GlobalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Project/gitdemo/ssm/src/main/java/com/soecode/lyf/web/BookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="27" column="43" lean-forward="false" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Project/gitdemo/ssm/src/main/java/com/soecode/lyf/entity/ThreadLocalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Project/gitdemo/ssm/src/main/java/com/soecode/lyf/Test/JoinTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Project/gitdemo/springboot-rabbitmq-master/src/main/java/com/space/rabbitmq/RabbitmqApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Project/gitdemo/ssm/src/test/java/com/soecode/lyf/dao/BookDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_web/src/main/java/com/tensquare/web/WebFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-607">
+          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_article/src/main/java/com/tensquare/article/dao/ArticleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_article/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_base/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="50" column="16" lean-forward="false" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_base/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../资源/本地仓库/repository_pinyougou/org/springframework/data/spring-data-jpa/2.0.6.RELEASE/spring-data-jpa-2.0.6.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_base/src/main/java/com/tensquare/base/dao/LabelDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_base/src/main/java/com/tensquare/base/service/LabelService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+          <folding>
+            <element signature="e#941#942#0" expanded="false" />
+            <element signature="e#982#983#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_eureka/src/main/java/com/tensquare/eureka/EurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_eureka/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_eureka/target/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_config/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_config/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="59" column="10" lean-forward="false" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-common/src/main/java/com/leyou/common/utils/CookieUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-upload/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Project/gitdemo/spring-boot-examples/dockercompose-springboot-mysql-nginx/app/src/main/java/com/neo/controller/VisitorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou-cart-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou-cart-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1799">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>pinyougou-cart-service:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>tensquare_common</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
