@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://E:/Project/gitdemo/spring-boot-examples/spring-boot-package-war" />
+    <file type="web" url="file://E:/Project/gitdemo/ssm" />
+    <file type="web" url="file://E:/Project/gitdemo/tcc-transaction-v1.1.5_(龙果学院带注释版源码)/tcc-transaction-v1.1.5/tcc-transaction-dubbo-web-trade" />
+    <file type="web" url="file://E:/Project/gitdemo/tcc-transaction-v1.1.5_(龙果学院带注释版源码)/tcc-transaction-v1.1.5/tcc-transaction-server" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-page-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-page-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-pay-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-seckill-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-seckill-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-sellergoods-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-shop-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-task-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-user-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-user-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../springBootDemo" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../itcast_sms_service/pom.xml" />
+        <option value="E:/Project/gitdemo/leyou/pom.xml" />
+        <option value="E:/Project/gitdemo/ssm/pom.xml" />
+        <option value="E:/Project/gitdemo/tcc-transaction-v1.1.5_(龙果学院带注释版源码)/tcc-transaction-v1.1.5/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-web/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-mail/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-hello/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-shiro/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-banner/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-docker/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-fastDFS/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-mongodb/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-actuator/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-rabbitmq/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-scheduler/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-thymeleaf/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-helloWorld/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-file-upload/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-mybatis-xml/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-package-war/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-admin-simple/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-multi-mongodb/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-web-thymeleaf/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-commandLineRunner/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-jpa-thymeleaf-curd/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-mybatis-annotation/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-memcache-spymemcached/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-mybatis-mulidatasource/pom.xml" />
+        <option value="E:/Project/gitdemo/spring-boot-examples/spring-boot-mybatis-annotation-mulidatasource/pom.xml" />
+        <option value="E:/Project/gitdemo/springboot-rabbitmq-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../tensquare/tensquare_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_common/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/../tensquare/tensquare_parent/tensquare_eureka/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/../springBootDemo/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="E:/Project/gitdemo/leyou/ly-api-gateway/pom.xml" />
+        <option value="E:/Project/gitdemo/leyou/ly-common/pom.xml" />
+        <option value="E:/Project/gitdemo/leyou/ly-item/ly-item-interface/pom.xml" />
+        <option value="E:/Project/gitdemo/leyou/ly-item/ly-item-service/pom.xml" />
+        <option value="E:/Project/gitdemo/leyou/ly-item/pom.xml" />
+        <option value="E:/Project/gitdemo/leyou/ly-registry/pom.xml" />
+        <option value="E:/Project/gitdemo/leyou/ly-upload/pom.xml" />
+        <option value="E:/Project/gitdemo/leyou/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-auth/ly-auth-center/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-auth/ly-auth-common/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-auth/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-cart/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-common/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-gateway/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-item/ly-item-interface/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-item/ly-item-service/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-item/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-page/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-registry/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-search/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-sms/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-upload/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-user/ly-user-interface/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-user/ly-user-service/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/ly-user/pom.xml" />
+        <option value="E:/Work/Project/乐优商城/乐优资料10-19天/day18-购物车/leyou/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>

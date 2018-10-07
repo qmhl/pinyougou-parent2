@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AA" />
+        <module name="itcast_sms_service" />
+        <module name="maven-archiver (1)" />
+        <module name="maven-archiver (2)" />
+        <module name="pinyougou-cart-interface" />
+        <module name="pinyougou-cart-service" />
+        <module name="pinyougou-cart-web" />
+        <module name="pinyougou-common" />
+        <module name="pinyougou-content-interface" />
+        <module name="pinyougou-content-service" />
+        <module name="pinyougou-dao" />
+        <module name="pinyougou-manager-web" />
+        <module name="pinyougou-order-interface" />
+        <module name="pinyougou-order-service" />
+        <module name="pinyougou-page-interface" />
+        <module name="pinyougou-page-service" />
+        <module name="pinyougou-page-web" />
+        <module name="pinyougou-pay-interface" />
+        <module name="pinyougou-pay-service" />
+        <module name="pinyougou-pojo" />
+        <module name="pinyougou-portal-web" />
+        <module name="pinyougou-search-interface" />
+        <module name="pinyougou-search-service" />
+        <module name="pinyougou-search-web" />
+        <module name="pinyougou-seckill-interface" />
+        <module name="pinyougou-seckill-service" />
+        <module name="pinyougou-seckill-web" />
+        <module name="pinyougou-sellergoods-interface" />
+        <module name="pinyougou-sellergoods-service" />
+        <module name="pinyougou-shop-web" />
+        <module name="pinyougou-solr-util" />
+        <module name="pinyougou-task-service" />
+        <module name="pinyougou-user-interface" />
+        <module name="pinyougou-user-service" />
+        <module name="pinyougou-user-web" />
+        <module name="rabbitmq" />
+        <module name="spring-boot-actuator" />
+        <module name="spring-boot-admin-client" />
+        <module name="spring-boot-admin-server" />
+        <module name="spring-boot-banner" />
+        <module name="spring-boot-commandLineRunner" />
+        <module name="spring-boot-docker" />
+        <module name="spring-boot-fastDFS" />
+        <module name="spring-boot-file-upload" />
+        <module name="spring-boot-hello" />
+        <module name="spring-boot-helloworld" />
+        <module name="spring-boot-jpa-thymeleaf-curd" />
+        <module name="spring-boot-mail" />
+        <module name="spring-boot-memcache-spymemcached" />
+        <module name="spring-boot-mongodb" />
+        <module name="spring-boot-multi-mongodb" />
+        <module name="spring-boot-mybatis-annotation" />
+        <module name="spring-boot-mybatis-annotation-mulidatasource" />
+        <module name="spring-boot-mybatis-mulidatasource" />
+        <module name="spring-boot-mybatis-xml" />
+        <module name="spring-boot-package-war" />
+        <module name="spring-boot-rabbitmq" />
+        <module name="spring-boot-scheduler" />
+        <module name="spring-boot-shiro" />
+        <module name="spring-boot-thymeleaf" />
+        <module name="spring-boot-web" />
+        <module name="spring-boot-web-thymeleaf" />
+        <module name="springBootDemo" />
+        <module name="ssm" />
+        <module name="tcc-transaction-api" />
+        <module name="tcc-transaction-core" />
+        <module name="tcc-transaction-dubbo-capital" />
+        <module name="tcc-transaction-dubbo-capital-api" />
+        <module name="tcc-transaction-dubbo-order" />
+        <module name="tcc-transaction-dubbo-order-api" />
+        <module name="tcc-transaction-dubbo-redpacket" />
+        <module name="tcc-transaction-dubbo-redpacket-api" />
+        <module name="tcc-transaction-dubbo-web-trade" />
+        <module name="tcc-transaction-server" />
+        <module name="tcc-transaction-spring" />
+        <module name="tensquare_article" />
+        <module name="tensquare_base" />
+        <module name="tensquare_common" />
+        <module name="tensquare_config" />
+        <module name="tensquare_eureka" />
+        <module name="tensquare_friend" />
+        <module name="tensquare_gathering" />
+        <module name="tensquare_manager" />
+        <module name="tensquare_qa" />
+        <module name="tensquare_recruit" />
+        <module name="tensquare_search" />
+        <module name="tensquare_sms" />
+        <module name="tensquare_spit" />
+        <module name="tensquare_user" />
+        <module name="tensquare_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AA" target="1.7" />
+      <module name="dockercompose-springboot-mysql-nginx" target="1.8" />
+      <module name="itcast_sms_service" target="1.7" />
+      <module name="leyou" target="1.8" />
+      <module name="leyou (2)" target="1.8" />
+      <module name="ly-api-gateway" target="1.8" />
+      <module name="ly-auth" target="1.8" />
+      <module name="ly-auth-center" target="1.8" />
+      <module name="ly-auth-common" target="1.8" />
+      <module name="ly-cart" target="1.8" />
+      <module name="ly-common" target="1.8" />
+      <module name="ly-common (1)" target="1.8" />
+      <module name="ly-gateway" target="1.8" />
+      <module name="ly-item" target="1.8" />
+      <module name="ly-item (1)" target="1.8" />
+      <module name="ly-item-interface" target="1.8" />
+      <module name="ly-item-interface (1)" target="1.8" />
+      <module name="ly-item-service" target="1.8" />
+      <module name="ly-item-service (1)" target="1.8" />
+      <module name="ly-order" target="1.8" />
+      <module name="ly-page" target="1.8" />
+      <module name="ly-registry" target="1.8" />
+      <module name="ly-registry (1)" target="1.8" />
+      <module name="ly-search" target="1.8" />
+      <module name="ly-sms" target="1.8" />
+      <module name="ly-upload" target="1.8" />
+      <module name="ly-upload (1)" target="1.8" />
+      <module name="ly-user" target="1.8" />
+      <module name="ly-user-interface" target="1.8" />
+      <module name="ly-user-service" target="1.8" />
+      <module name="maven-archiver (1)" target="1.5" />
+      <module name="maven-archiver (2)" target="1.5" />
+      <module name="pinyougou-cart-interface" target="1.7" />
+      <module name="pinyougou-cart-service" target="1.7" />
+      <module name="pinyougou-cart-web" target="1.7" />
+      <module name="pinyougou-common" target="1.7" />
+      <module name="pinyougou-content-interface" target="1.7" />
+      <module name="pinyougou-content-service" target="1.7" />
+      <module name="pinyougou-dao" target="1.7" />
+      <module name="pinyougou-manager-web" target="1.7" />
+      <module name="pinyougou-order-interface" target="1.7" />
+      <module name="pinyougou-order-service" target="1.7" />
+      <module name="pinyougou-page-interface" target="1.7" />
+      <module name="pinyougou-page-service" target="1.7" />
+      <module name="pinyougou-page-web" target="1.7" />
+      <module name="pinyougou-parent" target="1.7" />
+      <module name="pinyougou-pay-interface" target="1.7" />
+      <module name="pinyougou-pay-service" target="1.7" />
+      <module name="pinyougou-pojo" target="1.7" />
+      <module name="pinyougou-portal-web" target="1.7" />
+      <module name="pinyougou-search-interface" target="1.7" />
+      <module name="pinyougou-search-service" target="1.7" />
+      <module name="pinyougou-search-web" target="1.7" />
+      <module name="pinyougou-seckill-interface" target="1.7" />
+      <module name="pinyougou-seckill-service" target="1.7" />
+      <module name="pinyougou-seckill-web" target="1.7" />
+      <module name="pinyougou-sellergoods-interface" target="1.7" />
+      <module name="pinyougou-sellergoods-service" target="1.7" />
+      <module name="pinyougou-shop-web" target="1.7" />
+      <module name="pinyougou-solr-util" target="1.7" />
+      <module name="pinyougou-task-service" target="1.7" />
+      <module name="pinyougou-user-interface" target="1.7" />
+      <module name="pinyougou-user-service" target="1.7" />
+      <module name="pinyougou-user-web" target="1.7" />
+      <module name="rabbitmq" target="1.8" />
+      <module name="spring-boot-actuator" target="1.8" />
+      <module name="spring-boot-admin-client" target="1.8" />
+      <module name="spring-boot-admin-server" target="1.8" />
+      <module name="spring-boot-admin-simple" target="1.8" />
+      <module name="spring-boot-banner" target="1.8" />
+      <module name="spring-boot-commandLineRunner" target="1.8" />
+      <module name="spring-boot-docker" target="1.8" />
+      <module name="spring-boot-fastDFS" target="1.8" />
+      <module name="spring-boot-file-upload" target="1.8" />
+      <module name="spring-boot-hello" target="1.8" />
+      <module name="spring-boot-helloworld" target="1.8" />
+      <module name="spring-boot-jpa-thymeleaf-curd" target="1.8" />
+      <module name="spring-boot-mail" target="1.8" />
+      <module name="spring-boot-memcache-spymemcached" target="1.8" />
+      <module name="spring-boot-mongodb" target="1.8" />
+      <module name="spring-boot-multi-mongodb" target="1.8" />
+      <module name="spring-boot-mybatis-annotation" target="1.8" />
+      <module name="spring-boot-mybatis-annotation-mulidatasource" target="1.8" />
+      <module name="spring-boot-mybatis-mulidatasource" target="1.8" />
+      <module name="spring-boot-mybatis-xml" target="1.8" />
+      <module name="spring-boot-package-war" target="1.7" />
+      <module name="spring-boot-rabbitmq" target="1.8" />
+      <module name="spring-boot-scheduler" target="1.8" />
+      <module name="spring-boot-shiro" target="1.8" />
+      <module name="spring-boot-thymeleaf" target="1.8" />
+      <module name="spring-boot-web" target="1.8" />
+      <module name="spring-boot-web-thymeleaf" target="1.8" />
+      <module name="springBootDemo" target="1.7" />
+      <module name="ssm" target="1.5" />
+      <module name="tcc-transaction" target="1.5" />
+      <module name="tcc-transaction-api" target="1.7" />
+      <module name="tcc-transaction-core" target="1.7" />
+      <module name="tcc-transaction-dubbo-capital" target="1.7" />
+      <module name="tcc-transaction-dubbo-capital-api" target="1.7" />
+      <module name="tcc-transaction-dubbo-order" target="1.7" />
+      <module name="tcc-transaction-dubbo-order-api" target="1.7" />
+      <module name="tcc-transaction-dubbo-redpacket" target="1.7" />
+      <module name="tcc-transaction-dubbo-redpacket-api" target="1.7" />
+      <module name="tcc-transaction-dubbo-web-trade" target="1.7" />
+      <module name="tcc-transaction-parent" target="1.7" />
+      <module name="tcc-transaction-server" target="1.7" />
+      <module name="tcc-transaction-spring" target="1.7" />
+      <module name="tensquare_article" target="1.8" />
+      <module name="tensquare_base" target="1.8" />
+      <module name="tensquare_common" target="1.8" />
+      <module name="tensquare_config" target="1.8" />
+      <module name="tensquare_eureka" target="1.8" />
+      <module name="tensquare_friend" target="1.8" />
+      <module name="tensquare_gathering" target="1.8" />
+      <module name="tensquare_manager" target="1.8" />
+      <module name="tensquare_parent" target="1.8" />
+      <module name="tensquare_qa" target="1.8" />
+      <module name="tensquare_recruit" target="1.8" />
+      <module name="tensquare_search" target="1.8" />
+      <module name="tensquare_sms" target="1.8" />
+      <module name="tensquare_spit" target="1.8" />
+      <module name="tensquare_user" target="1.8" />
+      <module name="tensquare_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
